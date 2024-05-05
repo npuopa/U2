@@ -1,0 +1,9 @@
+4
+Alytus	1
+Vytas		241	2
+Jonava	1
+Simas		241	1
+Ignalina	1
+Asta		243	0
+Utena		1
+Dalia		243	0
